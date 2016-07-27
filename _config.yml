@@ -1,7 +1,7 @@
 name: iOL Digital
 favicon: null
-layout_spectrum: 0.7191134144086391
-typography_spectrum: 0.5999734057113528
+layout_spectrum: 0.2107
+typography_spectrum: 0.76421
 title: iOL Digital Marketing Services
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.48253185977227986
-  lightness: 0.15728198271244764
-  saturation: 0.7530247392132878
-  rhythmicContrast: 0.016230529407039285
+    - '#000000'
+    - '#ccccce'
+    - '#5d5061'
+    - '#0101bb'
+    - '#d8a001'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
